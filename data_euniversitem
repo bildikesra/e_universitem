@@ -1,1 +1,23 @@
+[
+  {
+    "title": "Kişisel Gelişim",
+    "iconUrl": "https://raw.githubusercontent.com/.../alarm.png",
+    "navigateTo": "gelişim"
+  },
+  {
+    "title": "Pomodoro",
+    "iconUrl": "https://raw.githubusercontent.com/.../books.png",
+    "navigateTo": "pomodoro"
+  },
+  {
+    "title": "Net Hesaplama",
+    "iconUrl": "https://raw.githubusercontent.com/.../event.png",
+    "navigateTo": "hesaplama"
+  },
+  {
+    "title": "Konu Takibi",
+    "iconUrl": "https://raw.githubusercontent.com/.../user.png",
+    "navigateTo": "konular"
+  }
+]
 
