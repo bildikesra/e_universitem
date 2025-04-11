@@ -1,22 +1,22 @@
 [
   {
     "title": "Kişisel Gelişim",
-    "iconUrl": "https://raw.githubusercontent.com/.../alarm.png",
+    "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/graphIcon.svg",
     "navigateTo": "gelişim"
   },
   {
     "title": "Pomodoro",
-    "iconUrl": "https://raw.githubusercontent.com/.../books.png",
+    "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoroIcon.svg",
     "navigateTo": "pomodoro"
   },
   {
     "title": "Net Hesaplama",
-    "iconUrl": "https://raw.githubusercontent.com/.../event.png",
+    "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/calculateIcon.svg",
     "navigateTo": "hesaplama"
   },
   {
     "title": "Konu Takibi",
-    "iconUrl": "https://raw.githubusercontent.com/.../user.png",
+    "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/listIcon.svg",
     "navigateTo": "konular"
   }
 ]
