@@ -2,7 +2,7 @@
   {
     "title": "Kişisel Gelişim",
     "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/graphIcon.svg",
-    "navigateTo": "gelişim"
+    "navigateTo": "personal"
   },
   {
     "title": "Pomodoro",
@@ -12,12 +12,12 @@
   {
     "title": "Net Hesaplama",
     "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/calculateIcon.svg",
-    "navigateTo": "hesaplama"
+    "navigateTo": "calculate"
   },
   {
     "title": "Konu Takibi",
     "iconUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/listIcon.svg",
-    "navigateTo": "konular"
+    "navigateTo": "subjects"
   }
 ]
 
