@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro1.svg",
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/main/pomodoro1.jpg",
     "musicUrl": "https://yourgithubrawlink.com/music1.mp3",
     "title": "Rain Sounds"
   },
   {
     "id": 2,
-    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro2.svg",
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/main/pomodoro2.jpg",
     "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
     "title": "Piano Relax"
   }
