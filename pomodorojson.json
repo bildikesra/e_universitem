@@ -1,8 +1,7 @@
 [
   {
     "id": 1,
-    "cardImageUrl": "https://yourgithubrawlink.com/card_image1.jpg",
-    "detailImageUrl": "https://yourgithubrawlink.com/detail_image1.jpg",
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro1.svg",
     "musicUrl": "https://yourgithubrawlink.com/music1.mp3",
     "title": "Rain Sounds"
   },
