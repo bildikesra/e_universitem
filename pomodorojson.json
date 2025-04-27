@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "cardImageUrl": "https://yourgithubrawlink.com/card_image1.jpg",
+    "detailImageUrl": "https://yourgithubrawlink.com/detail_image1.jpg",
+    "musicUrl": "https://yourgithubrawlink.com/music1.mp3",
+    "title": "Rain Sounds"
+  },
+  {
+    "id": 2,
+    "cardImageUrl": "https://yourgithubrawlink.com/card_image2.jpg",
+    "detailImageUrl": "https://yourgithubrawlink.com/detail_image2.jpg",
+    "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
+    "title": "Piano Relax"
+  }
+]
