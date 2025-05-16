@@ -1,15 +1,43 @@
 [
   {
     "id": 1,
-    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro1.1.svg",
-    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro1.svg",
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_1.svg",
+    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_1.svg",
     "musicUrl": "https://yourgithubrawlink.com/music1.mp3",
     "title": "Rain Sounds"
   },
   {
     "id": 2,
-    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro1.1.svg",
-    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro1.svg",
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_2.svg",
+    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_2.svg",
+    "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
+    "title": "Piano Relax"
+  },
+  {
+    "id": 3,
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_3.svg",
+    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_3.svg",
+    "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
+    "title": "Piano Relax"
+  },
+  {
+    "id": 4,
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_4.svg",
+    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_4.svg",
+    "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
+    "title": "Piano Relax"
+  },
+  {
+    "id": 5,
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_5.svg",
+    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_5.svg",
+    "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
+    "title": "Piano Relax"
+  },
+  {
+    "id": 6,
+    "cardImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_6.svg",
+    "detailImageUrl": "https://raw.githubusercontent.com/bildikesra/e_universitem/refs/heads/main/pomodoro_6.svg",
     "musicUrl": "https://yourgithubrawlink.com/music2.mp3",
     "title": "Piano Relax"
   }
